@@ -55,3 +55,9 @@
 .iconw {
   font-size: 40px;
 }
+.source {
+    text-decoration: none;
+}
+.code-info {
+    text-align: center;
+}
