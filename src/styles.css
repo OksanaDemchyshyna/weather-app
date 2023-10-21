@@ -1,0 +1,57 @@
+.container {
+  max-width: 700px;
+}
+.current-city {
+  color: grey;
+}
+.search {
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0px 1px 7px 1px rgba(0, 0, 0, 0.1);
+}
+.srch-btn {
+  color: white;
+  border: none;
+  padding: 7px;
+  width: 90px;
+  margin: 3px;
+  border-radius: 3px;
+  background-color: #26b7ff;
+}
+.cr-btn {
+  color: white;
+  border: none;
+  padding: 7px;
+  width: 90px;
+  margin: 3px;
+  border-radius: 3px;
+  background-color: #61c821;
+}
+.cr-city {
+  font-size: 50px;
+  font-weight: 400;
+}
+.cr-tem {
+  font-size: 55px;
+  font-weight: 700;
+}
+.cr-temp {
+  font-size: 20px;
+  position: relative;
+  top: -25px;
+}
+.info {
+  color: gray;
+}
+.day,
+.iconw,
+.tempd {
+  text-align: center;
+  color: gray;
+}
+.iconw {
+  font-size: 40px;
+}
